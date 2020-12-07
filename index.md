@@ -6,6 +6,6 @@
 
 ##阶段成就
 
-![](C:\Users\10850\Documents\MAppReciateS.github.io\timg.jpg)
+![](timg.jpg)
 
 Note: 这是一个演示文档。
