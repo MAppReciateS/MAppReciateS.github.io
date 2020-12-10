@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "music.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -87,8 +87,8 @@
   },
   "lastOpenFiles": [
     "music.md",
+    "stress.md",
     "Pasted image 20201210150957.png",
-    "english-formula.md",
-    "stress.md"
+    "english-formula.md"
   ]
 }
