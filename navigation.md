@@ -2,13 +2,10 @@
 
 [MAppReciateS](index.md)
 
-[Fav Music](music/music.md)
+[Fav Music]()
 
   * [Concerts](music/music.md)
   * [Albums](music/albums.md)
-- - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
 
 [Math]()
 
