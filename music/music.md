@@ -2,7 +2,7 @@
 
 ## Concerts
 
-!(微信图片_20201210160033)[]
+![](微信图片_20201210160033.jpg)
 
 Sam Smith, The Thrill Of It All, Shanghai, 2018,10
 
