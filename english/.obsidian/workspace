@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "51a04a81937b7db8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4727c6c252d6085",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "music.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8e1f24a0abf4bfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "adc06d8290d9bea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de17fd06b0df6f9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e0e2efcd391ca43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40528f4ebb39e520",
+    "type": "split",
+    "children": [
+      {
+        "id": "187f41f2828f6514",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aedaae0214092a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "music.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "music.md",
+    "Pasted image 20201210150957.png",
+    "english-formula.md",
+    "stress.md"
+  ]
+}
