@@ -2,11 +2,11 @@
 
 ## Concerts
 
-![](微信图片_20201210160033.jpg)
+![SS](C:\Users\10850\Documents\MAppReciateS.github.io\music\images\SS.jpg)
 
 Sam Smith, The Thrill Of It All, Shanghai, 2018,10
 
-![[Pasted image 20201210152423.png]]
+
 Bruno Mars, NIO Day, Shanghai, 2018,12
 
 ![[Pasted image 20201210151316.png]]
