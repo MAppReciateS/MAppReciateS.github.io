@@ -2,29 +2,24 @@
 
 ## Concerts
 
-![SS](C:\Users\10850\Documents\MAppReciateS.github.io\music\images\SS.jpg)
+![](pics\SS.jpg)Sam Smith, The Thrill Of It All, Shanghai, 2018,10
 
-Sam Smith, The Thrill Of It All, Shanghai, 2018,10
+![](pics\微信图片_202012101600331.jpg)Bruno Mars, NIO Day, Shanghai, 2018,12
 
+<img src="pics\微信图片_202012101600332.jpg" style="zoom:80%;" />Madliyn Bailey, Shanghai, 2019,3
 
-Bruno Mars, NIO Day, Shanghai, 2018,12
-
-![[Pasted image 20201210151316.png]]
-Madliyn Bailey, Shanghai, 2019,3
-
-![[Pasted image 20201210151434.png]]
+![](pics\微信图片_202012101600333.jpg)
 Troye Sivan, Bloom, Shanghai, 2019,4
 
-![[Pasted image 20201210151748.png]]
+![](pics\849981244632387795.jpg)
 Westlife, Macau, 2019,7
 
-![[Pasted image 20201210151828.png]]
+![](pics\微信图片_202012101600334.jpg)
 TheChainsmokers, Nanjing, 2019,8
 
-![[Pasted image 20201210151926.png]]
-Greyson Chance, Portraits, Nanjing, 2019,9
+![](pics\微信图片_202012101600335.jpg)Greyson Chance, Portraits, Nanjing, 2019,9
 
-![[Pasted image 20201210152210.png]]
+![](pics\微信图片_202012101600336.jpg)
 Shawn Mendes, Singapore, 2019,10
 
 
