@@ -2,7 +2,7 @@
 
 ## Concerts
 
-![Pasted image 20201210150957]()
+![Pasted image 20201210150957](C:\Users\10850\Documents\MAppReciateS.github.io\music\pics\Pasted image 20201210150957.png)
 
 Sam Smith, The Thrill Of It All, Shanghai, 2018,10
 
