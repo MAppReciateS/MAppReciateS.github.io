@@ -5,7 +5,7 @@
 [Fav Music](music/music.md)
 
   * [Concerts](music/music.md)
-  * [Albums](music/music.md)
+  * [Albums](music/albums.md)
 - - - -
   * # Advanced
   * [Stress and Syllables](english/stress.md)
