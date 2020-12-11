@@ -14,7 +14,7 @@ More than most, the phases of R&B-pop auteur [The Weeknd](https://variety.com/t/
 
 ## Norman F**king Rockwell-Lana Del Rey 
 
-![](pics\2934349b033b5bb54707af2238d3d539b700bc1e.jpg)
+<img src="pics\2934349b033b5bb54707af2238d3d539b700bc1e.jpg" style="zoom: 33%;" />
 
 Lana Del Rey has always been a pop classicist at heart — but she’s finally made her pop classic. The long-awaited *Norman Fucking Rockwell* is even more massive and majestic than everyone hoped it would be. Lana turns her fifth and finest album into a tour of sordid American dreams, going deep cover in all our nation’s most twisted fantasies of glamour and danger. No other songwriter around does such an expert job of building up elaborate romantic fantasies, and then burning them to the ground. She purrs lines like, “If I wasn’t so fucked up, I’d fuck you all the time,” or, “I heard the war is over if you choose,” or, “Your poetry’s bad and you blame the news.” But the fact that they’re lethally funny doesn’t make them any less chilling.
 
